@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351366729127",
+    "firebase_url": "https://ilernanotes.firebaseio.com",
+    "project_id": "ilernanotes",
+    "storage_bucket": "ilernanotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351366729127:android:4a93eeb4b7f464d836fa82",
+        "android_client_info": {
+          "package_name": "com.rafiki.ilernanotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351366729127-pc7nhd1b6p2tmf7ek9oqugjtc4l971lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9xN1L9IlpO43RPZcCWlRs6EwpvWUI71M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351366729127-pc7nhd1b6p2tmf7ek9oqugjtc4l971lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
